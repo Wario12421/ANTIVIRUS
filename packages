@@ -1,0 +1,13 @@
+npm install electron --save-dev
+npm install electron-builder --save-dev
+npm run build
+npm start
+
+
+
+
+
+npm install uglify-js
+npm init -y
+NODE: https://nodejs.org/en
+
