@@ -1,0 +1,19 @@
+{
+  "name": "Viper-Detector",
+  "version": "1.0.0",
+  "description": "VAMP! Anti Virus tool used commonly for detecting malware and ransomware and other wares",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "author": "Viperbyte (Youtube)",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^13.1.7",
+    "electron-builder": "^24.4.0",
+    "uglify-js": "^3.17.4"
+  }
+}
+
+
